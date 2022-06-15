@@ -1,0 +1,1 @@
+core\py\App\Python\python.exe l.py /min

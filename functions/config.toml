@@ -1,0 +1,9 @@
+[sessions]
+api_hash = "b826075fd7ea762e6b9f853146d47995"
+api_id = 1325339
+
+[flood]
+messages = [ " \"?? \", \"d\", \"d\"",]
+delay = [ 3,]
+messages_count = 5
+trigger = "77777"

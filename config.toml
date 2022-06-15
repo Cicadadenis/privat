@@ -1,0 +1,9 @@
+[sessions]
+api_hash = "b826075fd7ea762e6b9f853146d47995"
+api_id = 1325339
+
+[flood]
+messages = [ "1", "2", "3", "4", "5", "7",]
+delay = [ 30, 45,]
+messages_count = 0
+trigger = "Привет"

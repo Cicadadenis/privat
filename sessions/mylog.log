@@ -1,0 +1,2097 @@
+10:00:10 - xxx - INFO - <module>: 44 - Hello
+10:00:10 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:00:10 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:00:10 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:00:10 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:00:10 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:00:10 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:00:10 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:00:10 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:00:10 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104162856223940852 to InvokeWithLayerRequest (205738fa770)
+10:00:10 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:00:10 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:00:10 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:00:10 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:00:10 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104162856223940852
+10:00:10 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:00:10 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:00:10 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104162856459578520 to InvokeWithLayerRequest (205738fa770)
+10:00:10 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:00:10 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:00:10 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:00:10 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104162856459578524 to MsgsAck (205738fa800)
+10:00:10 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:00:10 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:00:10 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:00:10 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:00:10 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:00:10 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104162856459578520]
+10:00:10 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:00:10 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104162856459578520
+10:00:10 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:00:14 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104162872616886628 to SearchRequest (205738fb190)
+10:00:14 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 28 bytes for sending
+10:00:14 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:00:14 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:00:14 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104162872616886632 to MsgsAck (205738fa230)
+10:00:14 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:00:14 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:00:14 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:00:14 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104162872616886628
+10:00:14 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:00:14 - xxx - ERROR - <module>: 168 - 'Found' object is not iterable
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 141, in <module>
+    for x in result:
+TypeError: 'Found' object is not iterable
+10:00:57 - xxx - INFO - <module>: 44 - Hello
+10:00:57 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:00:57 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:00:57 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:00:57 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:00:57 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:00:57 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:00:57 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:00:57 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:00:57 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163059771232120 to InvokeWithLayerRequest (2585fc8a8f0)
+10:00:57 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:00:57 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:00:57 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:00:57 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:00:57 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104163059771232120
+10:00:57 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:00:57 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:00:57 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163059993654720 to InvokeWithLayerRequest (2585fc8a8f0)
+10:00:57 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:00:57 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:00:57 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:00:57 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163059997630588 to MsgsAck (2585fc8a980)
+10:00:57 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:00:57 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:00:57 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:00:58 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:00:58 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:00:58 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104163059993654720]
+10:00:58 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:00:58 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104163059993654720
+10:00:58 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:01:01 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163073815386772 to SearchRequest (2585fc8b340)
+10:01:01 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 28 bytes for sending
+10:01:01 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:01:01 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:01:01 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163073815386776 to MsgsAck (2585fc8a3b0)
+10:01:01 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:01:01 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:01:01 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:01:01 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104163073815386772
+10:01:01 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:01:35 - xxx - INFO - <module>: 44 - Hello
+10:01:35 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:01:35 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:01:35 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:01:35 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:01:35 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:01:35 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:01:35 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:01:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:01:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163219733238536 to InvokeWithLayerRequest (2375b08a920)
+10:01:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:01:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:01:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:01:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:01:35 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104163219733238536
+10:01:35 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:01:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:01:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163219950553256 to InvokeWithLayerRequest (2375b08a920)
+10:01:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:01:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:01:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:01:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163219956452684 to MsgsAck (2375b08a9b0)
+10:01:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:01:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:01:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:01:35 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:01:35 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:01:35 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104163219950553256]
+10:01:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:01:35 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104163219950553256
+10:01:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:01:40 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163241603651492 to SearchRequest (2375b08b370)
+10:01:40 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:01:40 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:01:40 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:01:40 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163241608552424 to MsgsAck (2375b08b0d0)
+10:01:40 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:01:40 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:01:40 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:01:40 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104163241603651492
+10:01:40 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:03:17 - xxx - INFO - <module>: 44 - Hello
+10:03:17 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:03:17 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:03:17 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:03:17 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:03:17 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:03:17 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:03:17 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:03:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:03:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163660266158412 to InvokeWithLayerRequest (21ca1dca890)
+10:03:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:03:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:03:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:03:17 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:03:17 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104163660266158412
+10:03:17 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:03:17 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:03:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163660604612660 to InvokeWithLayerRequest (21ca1dca890)
+10:03:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:03:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:03:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:03:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163660608606648 to MsgsAck (21ca1dca920)
+10:03:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:03:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:03:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:03:17 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:03:17 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:03:17 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104163660604612660]
+10:03:17 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:03:17 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104163660604612660
+10:03:17 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:03:27 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163701025964352 to SearchRequest (21ca1dcb2e0)
+10:03:27 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:03:27 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:03:27 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:03:27 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163701032742116 to MsgsAck (21ca1dcb460)
+10:03:27 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:03:27 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:03:27 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:03:27 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104163701025964352
+10:03:27 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:04:14 - xxx - INFO - <module>: 44 - Hello
+10:04:14 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:04:14 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:04:14 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:04:14 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:04:14 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:04:14 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:04:14 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:04:14 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:04:14 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163905991762240 to InvokeWithLayerRequest (1672afaa950)
+10:04:14 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:04:14 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:04:14 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:04:14 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:04:14 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104163905991762240
+10:04:14 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:04:14 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:04:14 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163906214725572 to InvokeWithLayerRequest (1672afaa950)
+10:04:14 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:04:14 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:04:14 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:04:14 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163906214725576 to MsgsAck (1672afaa9e0)
+10:04:14 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:04:14 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:04:14 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:04:15 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:04:15 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:04:15 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104163906214725572]
+10:04:15 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:04:15 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104163906214725572
+10:04:15 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:04:20 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163931890475128 to SearchRequest (1672afab3a0)
+10:04:20 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:04:20 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:04:20 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:04:20 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104163931890475132 to MsgsAck (1672afab520)
+10:04:20 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:04:20 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:04:20 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:04:21 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104163931890475128
+10:04:21 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:05:16 - xxx - INFO - <module>: 44 - Hello
+10:05:16 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:05:16 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:05:16 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:05:16 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:05:16 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:05:16 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:05:16 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:05:16 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:05:16 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104164169670265180 to InvokeWithLayerRequest (27f7a37a800)
+10:05:16 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:05:16 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:05:16 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:05:16 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:05:16 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104164169670265180
+10:05:16 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:05:16 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:05:16 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104164169891633968 to InvokeWithLayerRequest (27f7a37a800)
+10:05:16 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:05:16 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:05:16 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:05:16 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104164169895639400 to MsgsAck (27f7a37a890)
+10:05:16 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:05:16 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:05:16 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:05:16 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:05:16 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:05:16 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104164169891633968]
+10:05:16 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:05:16 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104164169891633968
+10:05:16 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:05:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104164250942029856 to SearchRequest (27f7a37b250)
+10:05:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:05:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:05:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:05:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104164250942029860 to MsgsAck (27f7a37b3d0)
+10:05:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:05:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:05:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:05:35 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104164250942029856
+10:05:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:07:52 - xxx - INFO - <module>: 44 - Hello
+10:07:52 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:07:52 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:07:52 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:07:53 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:07:53 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:07:53 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:07:53 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:07:53 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:07:53 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104164843056200484 to InvokeWithLayerRequest (1da23dfa950)
+10:07:53 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:07:53 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:07:53 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:07:53 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:07:53 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104164843056200484
+10:07:53 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:07:53 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:07:53 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104164843271299816 to InvokeWithLayerRequest (1da23dfa950)
+10:07:53 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:07:53 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:07:53 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:07:53 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104164843275299528 to MsgsAck (1da23dfa9e0)
+10:07:53 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:07:53 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:07:53 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:07:53 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:07:53 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:07:53 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104164843271299816]
+10:07:53 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:07:53 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104164843271299816
+10:07:53 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:08:06 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104164902462954172 to SearchRequest (1da23dfb370)
+10:08:06 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:08:06 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:08:06 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:08:06 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104164902466960556 to MsgsAck (1da23dfb520)
+10:08:06 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:08:06 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:08:06 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:08:07 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104164902462954172
+10:08:07 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:08:07 - xxx - ERROR - <module>: 171 - Cannot cast Found to any kind of int.
+Traceback (most recent call last):
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\sessions\memory.py", line 192, in get_input_entity
+    return utils.get_input_peer(key)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\utils.py", line 235, in get_input_peer
+    _raise_cast_fail(entity, 'InputPeer')
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\utils.py", line 138, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast Found to any kind of InputPeer.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\utils.py", line 1020, in get_peer_id
+    peer = get_peer(peer)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\utils.py", line 993, in get_peer
+    _raise_cast_fail(peer, 'Peer')
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\utils.py", line 138, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast Found to any kind of Peer.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 139, in <module>
+    f = session.get_participants(result)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\chats.py", line 503, in get_participants
+    return await self.iter_participants(*args, **kwargs).collect()
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\requestiter.py", line 113, in collect
+    async for message in self:
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\requestiter.py", line 58, in __anext__
+    if await self._init(**self.kwargs):
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\chats.py", line 110, in _init
+    entity = await self.client.get_input_entity(entity)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 425, in get_input_entity
+    return self.session.get_input_entity(peer)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\sessions\memory.py", line 196, in get_input_entity
+    key = utils.get_peer_id(key)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\utils.py", line 1022, in get_peer_id
+    _raise_cast_fail(peer, 'int')
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\utils.py", line 138, in _raise_cast_fail
+    raise TypeError('Cannot cast {} to any kind of {}.'.format(
+TypeError: Cannot cast Found to any kind of int.
+10:09:11 - xxx - INFO - <module>: 44 - Hello
+10:09:11 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:09:11 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:09:11 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:09:11 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:09:11 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:09:11 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:09:11 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:09:11 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:09:11 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165180114815152 to InvokeWithLayerRequest (225e070ab60)
+10:09:11 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:09:11 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:09:11 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:09:11 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:09:11 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104165180114815152
+10:09:11 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:09:11 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:09:11 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165181670928396 to InvokeWithLayerRequest (225e070ab60)
+10:09:11 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:09:11 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:09:11 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:09:11 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165181674876608 to MsgsAck (225e070abf0)
+10:09:11 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:09:11 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:09:11 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:09:11 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:09:11 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:09:11 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104165181670928396]
+10:09:11 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:09:12 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104165181670928396
+10:09:12 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:09:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165204382054496 to SearchRequest (225e070b5b0)
+10:09:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:09:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:09:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:09:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165204382054500 to MsgsAck (225e070b730)
+10:09:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:09:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:09:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:09:17 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104165204382054496
+10:09:17 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:09:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165205069192100 to GetParticipantsRequest (225e0780a90)
+10:09:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 56 bytes for sending
+10:09:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:09:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:09:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165205073194672 to MsgsAck (225e070b3d0)
+10:09:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:09:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:09:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:09:17 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104165205069192100
+10:09:17 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:09:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165205507771660 to MsgsAck (225e070ba90)
+10:09:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:09:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:09:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:09:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165205511717012 to MsgsAck (225e070b760)
+10:09:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:09:17 - xxx - ERROR - <module>: 171 - Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by GetParticipantsRequest)
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 139, in <module>
+    f = session.get_participants("UkraineNow")
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\chats.py", line 503, in get_participants
+    return await self.iter_participants(*args, **kwargs).collect()
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\requestiter.py", line 113, in collect
+    async for message in self:
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\requestiter.py", line 74, in __anext__
+    if await self._load_next_chunk():
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\chats.py", line 221, in _load_next_chunk
+    results = await self.client(self.requests)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 75, in _call
+    raise MultiError(exceptions, results, requests)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 64, in _call
+    result = await f
+telethon.errors.rpcerrorlist.ChatAdminRequiredError: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by GetParticipantsRequest)
+10:11:35 - xxx - INFO - <module>: 44 - Hello
+10:11:35 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:11:35 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:11:35 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:11:36 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:11:36 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:11:36 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:11:36 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:11:36 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:11:36 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165800738932972 to InvokeWithLayerRequest (280470bac80)
+10:11:36 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:11:36 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:11:36 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:11:36 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:11:36 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104165800738932972
+10:11:36 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:11:36 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:11:36 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165800965493564 to InvokeWithLayerRequest (280470bac80)
+10:11:36 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:11:36 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:11:36 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:11:36 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165800973471052 to MsgsAck (280470bad10)
+10:11:36 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:11:36 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:11:36 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:11:36 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:11:36 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:11:36 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104165800965493564]
+10:11:36 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:11:36 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104165800965493564
+10:11:36 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:11:54 - xxx - INFO - <module>: 44 - Hello
+10:11:54 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:11:54 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:11:54 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:11:54 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:11:54 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:11:54 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:11:54 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:11:54 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:11:54 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165881920590088 to InvokeWithLayerRequest (27c79d8ab30)
+10:11:54 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:11:54 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:11:54 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:11:54 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:11:55 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104165881920590088
+10:11:55 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:11:55 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:11:55 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165882448777484 to InvokeWithLayerRequest (27c79d8ab30)
+10:11:55 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:11:55 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:11:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:11:55 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104165882453081416 to MsgsAck (27c79d8abc0)
+10:11:55 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:11:55 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:11:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:11:55 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:11:55 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:11:55 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104165882448777484]
+10:11:55 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:11:55 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104165882448777484
+10:11:55 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:13:34 - xxx - INFO - <module>: 44 - Hello
+10:13:34 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:13:34 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:13:34 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:13:35 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:13:35 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:13:35 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:13:35 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:13:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:13:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104166313137886084 to InvokeWithLayerRequest (25aedb0abf0)
+10:13:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:13:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:13:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:13:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:13:35 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104166313137886084
+10:13:35 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:13:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:13:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104166313356443440 to InvokeWithLayerRequest (25aedb0abf0)
+10:13:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:13:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:13:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:13:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104166313360438384 to MsgsAck (25aedb0ac80)
+10:13:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:13:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:13:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:13:35 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:13:35 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:13:35 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104166313356443440]
+10:13:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:13:35 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104166313356443440
+10:13:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:21:38 - xxx - INFO - <module>: 44 - Hello
+10:21:38 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:21:38 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:21:38 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:21:38 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:21:38 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:21:38 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:21:38 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:21:38 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:21:38 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168387747469004 to InvokeWithLayerRequest (18c03c5abc0)
+10:21:38 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:21:38 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:21:38 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:21:38 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:21:38 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104168387747469004
+10:21:38 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:21:38 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:21:38 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168387964622552 to InvokeWithLayerRequest (18c03c5abc0)
+10:21:38 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:21:38 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:21:38 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:21:38 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168387968607956 to MsgsAck (18c03c5ac50)
+10:21:38 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:21:38 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:21:38 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:21:38 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:21:38 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:21:38 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104168387964622552]
+10:21:38 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:21:38 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104168387964622552
+10:21:38 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:22:02 - xxx - INFO - <module>: 44 - Hello
+10:22:02 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:22:02 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:22:02 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:22:02 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:22:02 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:22:02 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:22:02 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:22:02 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:22:02 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168489923238864 to InvokeWithLayerRequest (184de7fac20)
+10:22:02 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:22:02 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:22:02 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:22:02 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:22:02 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104168489923238864
+10:22:02 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:22:02 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:22:02 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168490143316380 to InvokeWithLayerRequest (184de7fac20)
+10:22:02 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:22:02 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:22:02 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:22:02 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168490149564852 to MsgsAck (184de7facb0)
+10:22:02 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:22:02 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:22:02 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:22:02 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:22:02 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:22:02 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104168490143316380]
+10:22:02 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:22:02 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104168490143316380
+10:22:02 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:22:02 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168490804488292 to GetStateRequest (184de7fa6e0)
+10:22:02 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 20 bytes for sending
+10:22:02 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:22:02 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:22:02 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168490804488296 to MsgsAck (184de7faf20)
+10:22:02 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:22:02 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:22:02 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:22:02 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104168490804488292
+10:22:02 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:23:02 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168748552574880 to PingRequest (184de7fb7c0)
+10:23:02 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 28 bytes for sending
+10:23:02 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:23:02 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:23:02 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168748562183148 to MsgsAck (184de7fafe0)
+10:23:02 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:23:02 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:23:02 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:23:02 - mtprotosender - DEBUG - _handle_pong: 666 - Handling pong for message 7104168748552574880
+10:23:02 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:23:45 - xxx - INFO - <module>: 44 - Hello
+10:23:45 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:23:45 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:23:45 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:23:45 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:23:45 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:23:45 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:23:45 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:23:45 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:23:45 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168935120159848 to InvokeWithLayerRequest (273af36ab00)
+10:23:45 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:23:45 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:23:45 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:23:45 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:23:45 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104168935120159848
+10:23:45 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:23:45 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:23:45 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168935352841124 to InvokeWithLayerRequest (273af36ab00)
+10:23:45 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:23:45 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:23:45 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:23:45 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104168935356779800 to MsgsAck (273af36ab90)
+10:23:45 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:23:45 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:23:45 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:23:45 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:23:45 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:23:45 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104168935352841124]
+10:23:45 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:23:45 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104168935352841124
+10:23:45 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:30:47 - xxx - INFO - <module>: 44 - Hello
+10:30:47 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:30:47 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:30:47 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:30:48 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:30:48 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:30:48 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:30:48 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:30:48 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:30:48 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104170749160930740 to InvokeWithLayerRequest (23c397aa980)
+10:30:48 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:30:48 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:30:48 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:30:48 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:30:48 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104170749160930740
+10:30:48 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:30:48 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:30:48 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104170752017111884 to InvokeWithLayerRequest (23c397aa980)
+10:30:48 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:30:48 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:30:48 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:30:48 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104170752017111888 to MsgsAck (23c397aaa10)
+10:30:48 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:30:48 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:30:48 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:30:49 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:30:49 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:30:49 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104170752017111884]
+10:30:49 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:30:49 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104170752017111884
+10:30:49 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:30:57 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104170788999909172 to SearchRequest (23c397ab3d0)
+10:30:57 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 28 bytes for sending
+10:30:57 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:30:57 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:30:57 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104170789004448660 to MsgsAck (23c397aa440)
+10:30:57 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:30:57 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:30:57 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:30:57 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104170788999909172
+10:30:57 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:30:57 - xxx - ERROR - <module>: 173 - name 'JoinChannelRequest' is not defined
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 140, in <module>
+    f = session(JoinChannelRequest(invite))
+NameError: name 'JoinChannelRequest' is not defined
+10:32:54 - xxx - INFO - <module>: 55 - Hello
+10:32:54 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:32:54 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:32:54 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:32:54 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:32:54 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:32:54 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:32:54 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:32:54 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:32:54 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104171291815171396 to InvokeWithLayerRequest (244daff40d0)
+10:32:54 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:32:54 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:32:54 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:32:54 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:32:55 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104171291815171396
+10:32:55 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:32:55 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:32:55 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104171295393790044 to InvokeWithLayerRequest (244daff40d0)
+10:32:55 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:32:55 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:32:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:32:55 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104171295393790048 to MsgsAck (244daf9ffd0)
+10:32:55 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:32:55 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:32:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:32:55 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:32:55 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:32:55 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104171295393790044]
+10:32:55 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:32:56 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104171295393790044
+10:32:56 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:32:59 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104171311820389076 to SearchRequest (244daff4af0)
+10:32:59 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 28 bytes for sending
+10:32:59 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:32:59 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:32:59 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104171311820389080 to MsgsAck (244daff4b50)
+10:32:59 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:32:59 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:32:59 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:32:59 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104171311820389076
+10:32:59 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:32:59 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104171313870596216 to ResolveUsernameRequest (244daff43a0)
+10:32:59 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 32 bytes for sending
+10:32:59 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:32:59 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:32:59 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104171313870596220 to MsgsAck (244daff4fd0)
+10:32:59 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:32:59 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:32:59 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:33:00 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104171313870596216
+10:33:00 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:33:00 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104171316537825512 to JoinChannelRequest (244daff4af0)
+10:33:00 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:33:00 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:33:00 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:33:00 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104171316537825516 to MsgsAck (244daff4e80)
+10:33:00 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:33:00 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:33:00 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:33:00 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104171316537825512
+10:33:00 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:36:30 - xxx - INFO - <module>: 55 - Hello
+10:36:30 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:36:30 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:36:30 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:36:30 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:36:30 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:36:30 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:36:30 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:36:30 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:36:30 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172220164354964 to InvokeWithLayerRequest (266d9ec4160)
+10:36:30 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:36:30 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:36:30 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:36:30 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:36:31 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104172220164354964
+10:36:31 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:36:31 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:36:31 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172223758140848 to InvokeWithLayerRequest (266d9ec4160)
+10:36:31 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:36:31 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:36:31 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:36:31 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172223758140852 to MsgsAck (266d9e6ff10)
+10:36:31 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:36:31 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:36:31 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:36:32 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:36:32 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:36:32 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104172223758140848]
+10:36:32 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:36:32 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104172223758140848
+10:36:32 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:36:37 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172248304053368 to SearchRequest (266d9ec4bb0)
+10:36:37 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 28 bytes for sending
+10:36:37 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:36:37 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:36:37 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172248308162752 to MsgsAck (266d9ec4be0)
+10:36:37 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:36:37 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:36:37 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:36:37 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104172248304053368
+10:36:37 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:36:37 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172250504283968 to ImportChatInviteRequest (266d9ec4bb0)
+10:36:37 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 32 bytes for sending
+10:36:37 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:36:37 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:36:37 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172250504283972 to MsgsAck (266d9ec49a0)
+10:36:37 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:36:37 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:36:37 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:36:38 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104172250504283968
+10:36:38 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:36:38 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172253005779924 to MsgsAck (266d9ec4160)
+10:36:38 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:36:38 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:36:38 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:36:38 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172253005779928 to MsgsAck (266d9ec4e80)
+10:36:38 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:36:38 - xxx - ERROR - <module>: 184 - The chat the user tried to join has expired and is not valid anymore (caused by ImportChatInviteRequest)
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 151, in <module>
+    f = session(ImportChatInviteRequest(invite))
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 79, in _call
+    result = await future
+telethon.errors.rpcerrorlist.InviteHashExpiredError: The chat the user tried to join has expired and is not valid anymore (caused by ImportChatInviteRequest)
+10:38:20 - xxx - INFO - <module>: 55 - Hello
+10:38:20 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:38:20 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:38:20 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:38:21 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:38:21 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:38:21 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:38:21 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:38:21 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:38:21 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172694875654516 to InvokeWithLayerRequest (1f70a344280)
+10:38:21 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:38:21 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:38:21 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:38:21 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:38:22 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104172694875654516
+10:38:22 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:38:22 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:38:22 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172698496161400 to InvokeWithLayerRequest (1f70a344280)
+10:38:22 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:38:22 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:38:22 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:38:22 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172698500795304 to MsgsAck (1f70a2eff70)
+10:38:22 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:38:22 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:38:22 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:38:22 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:38:22 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:38:22 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104172698496161400]
+10:38:22 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:38:22 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104172698496161400
+10:38:22 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:38:26 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172716227265784 to SearchRequest (1f70a344cd0)
+10:38:26 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 28 bytes for sending
+10:38:26 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:38:26 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:38:26 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172716231188248 to MsgsAck (1f70a344d00)
+10:38:26 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:38:26 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:38:26 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:38:27 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104172716227265784
+10:38:27 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:38:27 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172722451110912 to ResolveUsernameRequest (1f70a344e50)
+10:38:27 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 32 bytes for sending
+10:38:27 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:38:27 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:38:27 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172722501384808 to MsgsAck (1f70a345090)
+10:38:27 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:38:27 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:38:27 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:38:28 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104172722451110912
+10:38:28 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:38:28 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172725220313740 to GetParticipantsRequest (1f70a3445b0)
+10:38:28 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 52 bytes for sending
+10:38:28 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:38:28 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:38:28 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172725220313744 to MsgsAck (1f70a345030)
+10:38:28 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:38:28 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:38:28 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:38:28 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104172725220313740
+10:38:28 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:38:28 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172727745457364 to MsgsAck (1f70a3453f0)
+10:38:28 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:38:28 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:38:28 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:38:28 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104172727745457368 to MsgsAck (1f70a345150)
+10:38:28 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:38:28 - xxx - ERROR - <module>: 184 - Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by GetParticipantsRequest)
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 151, in <module>
+    f = session.get_participants(invite, aggressive=True)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\chats.py", line 503, in get_participants
+    return await self.iter_participants(*args, **kwargs).collect()
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\requestiter.py", line 113, in collect
+    async for message in self:
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\requestiter.py", line 74, in __anext__
+    if await self._load_next_chunk():
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\chats.py", line 213, in _load_next_chunk
+    self.total = (await self.client(functions.channels.GetParticipantsRequest(
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 79, in _call
+    result = await future
+telethon.errors.rpcerrorlist.ChatAdminRequiredError: Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by GetParticipantsRequest)
+10:40:54 - xxx - INFO - <module>: 55 - Hello
+10:40:54 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:40:54 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:40:54 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:40:54 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:40:54 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:40:54 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:40:54 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:40:54 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:40:54 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104173354452937412 to InvokeWithLayerRequest (1eaabbf40d0)
+10:40:54 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:40:54 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:40:54 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:40:54 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:40:55 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104173354452937412
+10:40:55 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:40:55 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:40:55 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104173357612685132 to InvokeWithLayerRequest (1eaabbf40d0)
+10:40:55 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:40:55 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:40:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:40:55 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104173357612685136 to MsgsAck (1eaabb9ffd0)
+10:40:55 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:40:55 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:40:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:40:57 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:40:57 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:40:57 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104173357612685132]
+10:40:57 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:40:57 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104173357612685132
+10:40:57 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:40:59 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104173375157605588 to SearchRequest (1eaabbf4b20)
+10:40:59 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 28 bytes for sending
+10:40:59 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:40:59 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:40:59 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104173375163053928 to MsgsAck (1eaabbf4b50)
+10:40:59 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:40:59 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:40:59 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:41:00 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104173375157605588
+10:41:00 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:41:43 - xxx - INFO - <module>: 55 - Hello
+10:41:43 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:41:43 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:41:43 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:41:43 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:41:43 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:41:43 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:41:43 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:41:43 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:41:43 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104173563863681832 to InvokeWithLayerRequest (24f2a98fee0)
+10:41:43 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:41:43 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:41:43 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:41:43 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:41:44 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104173563863681832
+10:41:44 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:41:44 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:41:44 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104173567051801364 to InvokeWithLayerRequest (24f2a98fee0)
+10:41:44 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:41:44 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:41:44 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:41:44 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104173567051801368 to MsgsAck (24f2a98ff70)
+10:41:44 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:41:44 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:41:44 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:41:44 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:41:44 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:41:44 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104173567051801364]
+10:41:44 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:41:45 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104173567051801364
+10:41:45 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:41:47 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104173580385431812 to SearchRequest (24f2a9e8940)
+10:41:47 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 28 bytes for sending
+10:41:47 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:41:47 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:41:47 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104173580385431816 to MsgsAck (24f2a9e8970)
+10:41:47 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:41:47 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:41:47 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:41:48 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104173580385431812
+10:41:48 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:41:48 - xxx - ERROR - <module>: 184 - You can only invoke requests, not types!
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 151, in <module>
+    f = session(ChannelParticipantsSearch(q=invite))
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 36, in _call
+    raise _NOT_A_REQUEST()
+TypeError: You can only invoke requests, not types!
+10:43:32 - xxx - INFO - <module>: 55 - Hello
+10:43:32 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:43:32 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:43:32 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:43:33 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:43:33 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:43:33 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:43:33 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:43:33 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:43:33 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174034595274020 to InvokeWithLayerRequest (1d2ba1cfeb0)
+10:43:33 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:43:33 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:43:33 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:43:33 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:43:33 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104174034595274020
+10:43:33 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:43:33 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:43:33 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174037844085740 to InvokeWithLayerRequest (1d2ba1cfeb0)
+10:43:33 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:43:33 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:43:33 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:43:33 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174037844085744 to MsgsAck (1d2ba1cff40)
+10:43:33 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:43:33 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:43:33 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:43:34 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:43:34 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:43:34 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104174037844085740]
+10:43:34 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:43:34 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104174037844085740
+10:43:34 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:43:43 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174078691413236 to SearchRequest (1d2ba228910)
+10:43:43 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 28 bytes for sending
+10:43:43 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:43:43 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:43:43 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174078695979428 to MsgsAck (1d2ba228940)
+10:43:43 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:43:43 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:43:43 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:43:43 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104174078691413236
+10:43:43 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:43:43 - xxx - ERROR - <module>: 187 - name 'user' is not defined
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 153, in <module>
+    users=[user]
+NameError: name 'user' is not defined
+10:45:34 - xxx - INFO - <module>: 55 - Hello
+10:45:34 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:45:34 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:45:34 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:45:34 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:45:34 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:45:34 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:45:34 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:45:34 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:45:34 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174556088817560 to InvokeWithLayerRequest (2bee734feb0)
+10:45:34 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:45:34 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:45:34 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:45:34 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:45:35 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104174556088817560
+10:45:35 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:45:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:45:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174559250671948 to InvokeWithLayerRequest (2bee734feb0)
+10:45:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:45:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:45:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:45:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174559252935972 to MsgsAck (2bee734ff40)
+10:45:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:45:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:45:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:45:35 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:45:35 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:45:35 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104174559250671948]
+10:45:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:45:36 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104174559250671948
+10:45:36 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:45:44 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174598658417928 to SearchRequest (2bee73a8910)
+10:45:44 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+10:45:44 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:45:44 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:45:44 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174598662783848 to MsgsAck (2bee73a8940)
+10:45:44 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:45:44 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:45:44 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:45:45 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104174598658417928
+10:45:45 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:46:34 - xxx - INFO - <module>: 55 - Hello
+10:46:34 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:46:34 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:46:34 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:46:34 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:46:34 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:46:34 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:46:34 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:46:34 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:46:34 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174813843814472 to InvokeWithLayerRequest (1f39fadfe20)
+10:46:34 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:46:34 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:46:34 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:46:34 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:46:35 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104174813843814472
+10:46:35 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:46:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:46:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174817008491736 to InvokeWithLayerRequest (1f39fadfe20)
+10:46:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:46:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:46:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:46:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174817013333540 to MsgsAck (1f39fadfeb0)
+10:46:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:46:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:46:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:46:35 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:46:35 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:46:35 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104174817008491736]
+10:46:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:46:36 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104174817008491736
+10:46:36 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:46:42 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174846815573332 to SearchRequest (1f39fb38880)
+10:46:42 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+10:46:42 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:46:42 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:46:42 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104174846820426580 to MsgsAck (1f39fb388b0)
+10:46:42 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:46:42 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:46:42 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:46:42 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104174846815573332
+10:46:42 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:58:55 - xxx - INFO - <module>: 55 - Hello
+10:58:55 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+10:58:55 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+10:58:55 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+10:58:55 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+10:58:55 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+10:58:55 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+10:58:55 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+10:58:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:58:55 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104177997129379736 to InvokeWithLayerRequest (28ec69e80a0)
+10:58:55 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:58:55 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:58:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:58:55 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:58:56 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104177997129379736
+10:58:56 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+10:58:56 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:58:56 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178000691054452 to InvokeWithLayerRequest (28ec69e80a0)
+10:58:56 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+10:58:56 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:58:56 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:58:56 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178000691054456 to MsgsAck (28ec698ffa0)
+10:58:56 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+10:58:56 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:58:56 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:58:57 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+10:58:57 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+10:58:57 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104178000691054452]
+10:58:57 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:58:57 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104178000691054452
+10:58:57 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+10:59:29 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178141894532028 to SearchRequest (28ec69e8af0)
+10:59:29 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+10:59:29 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:59:29 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:59:29 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178141894532032 to MsgsAck (28ec69e8b20)
+10:59:29 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+10:59:29 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+10:59:29 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+10:59:30 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104178141894532028
+10:59:30 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:00:27 - xxx - INFO - <module>: 55 - Hello
+11:00:27 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:00:27 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:00:27 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:00:28 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:00:28 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:00:28 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:00:28 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:00:28 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:00:28 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178393586907224 to InvokeWithLayerRequest (1bd1a8c4100)
+11:00:28 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:00:28 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:00:28 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:00:28 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:00:28 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104178393586907224
+11:00:28 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:00:28 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:00:28 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178396471484976 to InvokeWithLayerRequest (1bd1a8c4100)
+11:00:28 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:00:28 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:00:28 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:00:28 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178396479565460 to MsgsAck (1bd1a86feb0)
+11:00:28 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:00:28 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:00:28 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:00:29 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:00:29 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:00:29 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104178396471484976]
+11:00:29 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:00:29 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104178396471484976
+11:00:29 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:00:38 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178440259938340 to SearchRequest (1bd1a8c4b50)
+11:00:38 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+11:00:38 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:00:38 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:00:38 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178440263879876 to MsgsAck (1bd1a8c4b80)
+11:00:38 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+11:00:38 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:00:38 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:00:39 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104178440259938340
+11:00:39 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:00:39 - xxx - ERROR - <module>: 181 - 'Found' object is not iterable
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 154, in <module>
+    for x in result:
+TypeError: 'Found' object is not iterable
+11:01:06 - xxx - INFO - <module>: 55 - Hello
+11:01:06 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:01:06 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:01:06 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:01:07 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:01:07 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:01:07 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:01:07 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:01:07 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:01:07 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178561179861352 to InvokeWithLayerRequest (211e08f4190)
+11:01:07 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:01:07 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:01:07 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:01:07 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:01:07 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104178561179861352
+11:01:07 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:01:07 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:01:07 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178563987757012 to InvokeWithLayerRequest (211e08f4190)
+11:01:07 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:01:07 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:01:07 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:01:07 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178563987757016 to MsgsAck (211e089ff40)
+11:01:07 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:01:07 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:01:07 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:01:08 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:01:08 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:01:08 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104178563987757012]
+11:01:08 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:01:08 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104178563987757012
+11:01:08 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:01:15 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178596985779112 to SearchRequest (211e08f4be0)
+11:01:15 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+11:01:15 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:01:15 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:01:15 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178596985779116 to MsgsAck (211e08f4fd0)
+11:01:15 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+11:01:15 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:01:15 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:01:16 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104178596985779112
+11:01:16 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:02:11 - xxx - INFO - <module>: 55 - Hello
+11:02:11 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:02:11 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:02:11 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:02:12 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:02:12 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:02:12 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:02:12 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:02:12 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:02:12 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178840578393056 to InvokeWithLayerRequest (1dcbf1e4220)
+11:02:12 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:02:12 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:02:12 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:02:12 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:02:12 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104178840578393056
+11:02:12 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:02:12 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:02:12 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178843721343116 to InvokeWithLayerRequest (1dcbf1e4220)
+11:02:12 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:02:12 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:02:12 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:02:12 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178843721343120 to MsgsAck (1dcbf18ffd0)
+11:02:12 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:02:12 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:02:12 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:02:13 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:02:13 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:02:13 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104178843721343116]
+11:02:13 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:02:13 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104178843721343116
+11:02:13 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:02:33 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178934233409168 to SearchRequest (1dcbf1e4c70)
+11:02:33 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+11:02:33 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:02:33 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:02:33 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104178934238157512 to MsgsAck (1dcbf1e4ca0)
+11:02:33 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+11:02:33 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:02:33 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:02:34 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104178934233409168
+11:02:34 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:03:28 - xxx - INFO - <module>: 55 - Hello
+11:03:28 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:03:28 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:03:28 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:03:28 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:03:28 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:03:28 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:03:28 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:03:28 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:03:28 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104179168396607168 to InvokeWithLayerRequest (28b0354fe50)
+11:03:28 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:03:28 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:03:28 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:03:28 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:03:29 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104179168396607168
+11:03:29 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:03:29 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:03:29 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104179171598119148 to InvokeWithLayerRequest (28b0354fe50)
+11:03:29 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:03:29 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:03:29 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:03:29 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104179171598119152 to MsgsAck (28b0354fee0)
+11:03:29 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:03:29 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:03:29 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:03:29 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:03:29 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:03:29 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104179171598119148]
+11:03:29 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:03:29 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104179171598119148
+11:03:29 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:03:41 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104179222480974116 to SearchRequest (28b035c88b0)
+11:03:41 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+11:03:41 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:03:41 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:03:41 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104179222485599436 to MsgsAck (28b035c8cd0)
+11:03:41 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+11:03:41 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:03:41 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:03:41 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104179222480974116
+11:03:41 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:04:25 - xxx - INFO - <module>: 55 - Hello
+11:04:25 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:04:25 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:04:25 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:04:25 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:04:25 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:04:25 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:04:25 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:04:25 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:04:25 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104179414617018240 to InvokeWithLayerRequest (1f26c2f40d0)
+11:04:25 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:04:25 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:04:25 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:04:25 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:04:26 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104179414617018240
+11:04:26 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:04:26 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:04:26 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104179418206077716 to InvokeWithLayerRequest (1f26c2f40d0)
+11:04:26 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:04:26 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:04:26 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:04:26 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104179418206077720 to MsgsAck (1f26c29ffd0)
+11:04:26 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:04:26 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:04:26 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:04:27 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:04:27 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:04:27 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104179418206077716]
+11:04:27 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:04:27 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104179418206077716
+11:04:27 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:04:38 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104179469345404312 to SearchRequest (1f26c2f4b20)
+11:04:38 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+11:04:38 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:04:38 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:04:38 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104179469349756884 to MsgsAck (1f26c2f4b50)
+11:04:38 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+11:04:38 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:04:38 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:04:39 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104179469345404312
+11:04:39 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:10:09 - xxx - INFO - <module>: 55 - Hello
+11:10:09 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:10:09 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:10:09 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:10:10 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:10:10 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:10:10 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:10:10 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:10:10 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:10:10 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104180893441993676 to InvokeWithLayerRequest (242802a0430)
+11:10:10 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:10:10 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:10:10 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:10:10 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:10:10 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104180893441993676
+11:10:10 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:10:10 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:10:10 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104180896339500388 to InvokeWithLayerRequest (242802a0430)
+11:10:10 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:10:10 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:10:10 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:10:10 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104180896339500392 to MsgsAck (242802a04c0)
+11:10:10 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:10:10 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:10:10 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:10:11 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:10:11 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:10:11 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104180896339500388]
+11:10:11 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:10:11 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104180896339500388
+11:10:11 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:10:23 - xxx - ERROR - <module>: 193 - name 'GetFullChannelRequest' is not defined
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 161, in <module>
+    channel = session(GetFullChannelRequest(channel_username))
+NameError: name 'GetFullChannelRequest' is not defined
+11:10:55 - xxx - INFO - <module>: 55 - Hello
+11:10:55 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:10:55 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:10:55 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:10:55 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:10:55 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:10:55 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:10:55 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:10:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:10:55 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181087897996132 to InvokeWithLayerRequest (1bc044642b0)
+11:10:55 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:10:55 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:10:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:10:55 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:10:56 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104181087897996132
+11:10:56 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:10:56 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:10:56 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181091378226108 to InvokeWithLayerRequest (1bc044642b0)
+11:10:56 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:10:56 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:10:56 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:10:56 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181091390978640 to MsgsAck (1bc043effa0)
+11:10:56 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:10:56 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:10:56 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:10:56 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:10:56 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:10:56 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104181091378226108]
+11:10:56 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:10:57 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104181091378226108
+11:10:57 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:11:03 - xxx - ERROR - <module>: 193 - name 'GetFullChannelRequest' is not defined
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 161, in <module>
+    channel = session(GetFullChannelRequest(channel_username))
+NameError: name 'GetFullChannelRequest' is not defined
+11:11:36 - xxx - INFO - <module>: 55 - Hello
+11:11:36 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:11:36 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:11:36 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:11:36 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:11:36 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:11:36 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:11:36 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:11:36 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:11:36 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181264592939296 to InvokeWithLayerRequest (1f5fb15c4f0)
+11:11:36 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:11:36 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:11:36 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:11:36 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:11:37 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104181264592939296
+11:11:37 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:11:37 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:11:37 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181268127753776 to InvokeWithLayerRequest (1f5fb15c4f0)
+11:11:37 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:11:37 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:11:37 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:11:37 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181268137003460 to MsgsAck (1f5fb15c580)
+11:11:37 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:11:37 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:11:37 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:11:37 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:11:37 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:11:37 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104181268127753776]
+11:11:37 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:11:38 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104181268127753776
+11:11:38 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:11:52 - xxx - ERROR - <module>: 195 - name 'GetFullChannelRequest' is not defined
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 161, in <module>
+    channel = session(GetFullChannelRequest(channel_username))
+NameError: name 'GetFullChannelRequest' is not defined
+11:12:48 - xxx - INFO - <module>: 59 - Hello
+11:12:48 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:12:48 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:12:48 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:12:48 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:12:48 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:12:48 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:12:48 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:12:48 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:12:48 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181573722734532 to InvokeWithLayerRequest (27a9491ca00)
+11:12:48 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:12:48 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:12:48 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:12:48 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:12:49 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104181573722734532
+11:12:49 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:12:49 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:12:49 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181576787652696 to InvokeWithLayerRequest (27a9491ca00)
+11:12:49 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:12:49 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:12:49 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:12:49 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181576811956132 to MsgsAck (27a9491ca90)
+11:12:49 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:12:49 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:12:49 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:12:49 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:12:49 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:12:49 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104181576787652696]
+11:12:49 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:12:50 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104181576787652696
+11:12:50 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:12:55 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181604060698964 to ResolveUsernameRequest (27a9491d780)
+11:12:55 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:12:55 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:12:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:12:55 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181604060698968 to MsgsAck (27a9491d3c0)
+11:12:55 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+11:12:55 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:12:55 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:12:56 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104181604060698964
+11:12:56 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:12:56 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181606809450248 to GetFullChannelRequest (27a9491d870)
+11:12:56 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:12:56 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:12:56 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:12:56 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104181606809450252 to MsgsAck (27a9491da20)
+11:12:56 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:12:56 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:12:56 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:12:57 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104181606809450248
+11:12:57 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:20:04 - xxx - INFO - <module>: 59 - Hello
+11:20:04 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:20:04 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:20:04 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:20:04 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:20:04 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:20:04 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:20:04 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:20:04 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:20:04 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104183446059642428 to InvokeWithLayerRequest (1f8666e48b0)
+11:20:04 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:20:04 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:20:04 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:20:04 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:20:05 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104183446059642428
+11:20:05 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:20:05 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:20:05 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104183449217042204 to InvokeWithLayerRequest (1f8666e48b0)
+11:20:05 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:20:05 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:20:05 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:20:05 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104183449217042208 to MsgsAck (1f8666e4940)
+11:20:05 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:20:05 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:20:05 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:20:05 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:20:05 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:20:05 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104183449217042204]
+11:20:05 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:20:05 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104183449217042204
+11:20:05 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:20:15 - xxx - ERROR - <module>: 199 - Cannot find any entity corresponding to "наркота"
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 165, in <module>
+    channel = session(GetFullChannelRequest(channel_username))
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 37, in _call
+    await r.resolve(self, utils)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\tl\functions\channels.py", line 720, in resolve
+    self.channel = utils.get_input_channel(await client.get_input_entity(self.channel))
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 432, in get_input_entity
+    await self._get_entity_from_string(peer))
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 569, in _get_entity_from_string
+    raise ValueError(
+ValueError: Cannot find any entity corresponding to "наркота"
+11:29:16 - xxx - INFO - <module>: 59 - Hello
+11:29:16 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:29:16 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:29:16 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:29:17 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:29:17 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:29:17 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:29:17 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:29:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:29:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104185819869695240 to InvokeWithLayerRequest (1b191bd4970)
+11:29:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:29:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:29:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:29:17 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:29:17 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104185819869695240
+11:29:17 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:29:17 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:29:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104185823075967364 to InvokeWithLayerRequest (1b191bd4970)
+11:29:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:29:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:29:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:29:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104185823075967368 to MsgsAck (1b191bd4a00)
+11:29:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:29:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:29:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:29:18 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:29:18 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:29:18 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104185823075967364]
+11:29:18 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:29:18 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104185823075967364
+11:29:18 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:29:29 - xxx - ERROR - <module>: 199 - GetGroupsForDiscussionRequest() takes no arguments
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 165, in <module>
+    channel = session(GetGroupsForDiscussionRequest(channel_username))
+TypeError: GetGroupsForDiscussionRequest() takes no arguments
+11:30:17 - xxx - INFO - <module>: 59 - Hello
+11:30:17 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:30:17 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:30:17 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:30:17 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:30:17 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:30:17 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:30:17 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:30:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:30:17 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104186078775283048 to InvokeWithLayerRequest (21c11a54970)
+11:30:17 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:30:17 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:30:17 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:30:17 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:30:18 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104186078775283048
+11:30:18 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:30:18 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:30:18 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104186081775509668 to InvokeWithLayerRequest (21c11a54970)
+11:30:18 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:30:18 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:30:18 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:30:18 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104186081775509672 to MsgsAck (21c11a54a00)
+11:30:18 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:30:18 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:30:18 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:30:18 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:30:18 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:30:18 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104186081775509668]
+11:30:18 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:30:19 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104186081775509668
+11:30:19 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:30:21 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104186097031233508 to GetGroupsForDiscussionRequest (21c11a557e0)
+11:30:21 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 20 bytes for sending
+11:30:21 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:30:21 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:30:21 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104186097035431580 to MsgsAck (21c11a55720)
+11:30:21 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+11:30:21 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:30:21 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:30:22 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104186097031233508
+11:30:22 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:32:07 - xxx - INFO - <module>: 59 - Hello
+11:32:07 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+11:32:07 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+11:32:07 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+11:32:08 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+11:32:08 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+11:32:08 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+11:32:08 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+11:32:08 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:32:08 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104186554743468128 to InvokeWithLayerRequest (269f72748e0)
+11:32:08 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:32:08 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:32:08 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:32:08 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:32:08 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104186554743468128
+11:32:08 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+11:32:08 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:32:08 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104186557968626820 to InvokeWithLayerRequest (269f72748e0)
+11:32:08 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+11:32:08 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:32:08 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:32:08 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104186557968626824 to MsgsAck (269f7274970)
+11:32:08 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+11:32:08 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+11:32:08 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+11:32:09 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+11:32:09 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+11:32:09 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104186557968626820]
+11:32:09 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:32:09 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104186557968626820
+11:32:09 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+11:32:27 - xxx - ERROR - <module>: 199 - Cannot find any entity corresponding to "наркота"
+Traceback (most recent call last):
+  File "c:\Users\denis\OneDrive\Рабочий стол\X_X_X\sessions\xxx.py", line 165, in <module>
+    channel = session(GetFullChannelRequest(channel_username))
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\sync.py", line 39, in syncified
+    return loop.run_until_complete(coro)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py", line 646, in run_until_complete
+    return future.result()
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 37, in _call
+    await r.resolve(self, utils)
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\tl\functions\channels.py", line 720, in resolve
+    self.channel = utils.get_input_channel(await client.get_input_entity(self.channel))
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 432, in get_input_entity
+    await self._get_entity_from_string(peer))
+  File "C:\Users\denis\AppData\Local\Programs\Python\Python310\lib\site-packages\telethon\client\users.py", line 569, in _get_entity_from_string
+    raise ValueError(
+ValueError: Cannot find any entity corresponding to "наркота"
+21:52:29 - xxx - INFO - <module>: 59 - Hello
+21:52:29 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+21:52:29 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+21:52:29 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+21:52:30 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+21:52:30 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+21:52:30 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+21:52:30 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+21:52:30 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:52:30 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104346421690228292 to InvokeWithLayerRequest (24c25416710)
+21:52:30 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:52:30 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:52:30 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:52:30 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:52:30 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104346421690228292
+21:52:30 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+21:52:30 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:52:30 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104346424530200788 to InvokeWithLayerRequest (24c25416710)
+21:52:30 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:52:30 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:52:30 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:52:30 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104346424530200792 to MsgsAck (24c254167a0)
+21:52:30 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+21:52:30 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:52:30 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:52:31 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+21:52:31 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+21:52:31 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104346424530200788]
+21:52:31 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:52:31 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104346424530200788
+21:52:31 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:52:45 - retry - DEBUG - from_int: 333 - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+21:52:45 - retry - DEBUG - from_int: 333 - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+21:53:38 - xxx - INFO - <module>: 59 - Hello
+21:53:38 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+21:53:38 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+21:53:38 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+21:53:38 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+21:53:38 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+21:53:38 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+21:53:38 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+21:53:38 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:53:38 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104346715615003092 to InvokeWithLayerRequest (1de2373a410)
+21:53:38 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:53:38 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:53:38 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:53:38 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:53:39 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104346715615003092
+21:53:39 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+21:53:39 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:53:39 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104346718738774404 to InvokeWithLayerRequest (1de2373a410)
+21:53:39 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:53:39 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:53:39 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:53:39 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104346718738774408 to MsgsAck (1de2373a4a0)
+21:53:39 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+21:53:39 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:53:39 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:53:39 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+21:53:39 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+21:53:39 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104346718738774404]
+21:53:39 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:53:40 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104346718738774404
+21:53:40 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:53:44 - retry - DEBUG - from_int: 333 - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+21:53:44 - retry - DEBUG - from_int: 333 - Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+21:53:44 - nominatim - DEBUG - geocode: 295 - Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=%3Cgeopy.geocoders.nominatim.Nominatim+object+at+0x000001DE2373A7D0%3E&format=json&limit=1
+21:53:44 - connectionpool - DEBUG - _new_conn: 971 - Starting new HTTPS connection (1): nominatim.openstreetmap.org:443
+21:53:47 - connectionpool - DEBUG - _make_request: 452 - https://nominatim.openstreetmap.org:443 "GET /search?q=%3Cgeopy.geocoders.nominatim.Nominatim+object+at+0x000001DE2373A7D0%3E&format=json&limit=1 HTTP/1.1" 200 None
+21:55:10 - xxx - INFO - <module>: 59 - Hello
+21:55:10 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+21:55:10 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+21:55:10 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+21:55:10 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+21:55:10 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+21:55:10 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+21:55:10 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+21:55:10 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:55:10 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347111096409988 to InvokeWithLayerRequest (22f1a7fa380)
+21:55:10 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:55:10 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:55:10 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:55:10 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:55:11 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104347111096409988
+21:55:11 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+21:55:11 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:55:11 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347114193243816 to InvokeWithLayerRequest (22f1a7fa380)
+21:55:11 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:55:11 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:55:11 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:55:11 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347114193243820 to MsgsAck (22f1a7fa410)
+21:55:11 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+21:55:11 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:55:11 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:55:11 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+21:55:11 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+21:55:11 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104347114193243816]
+21:55:11 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:55:12 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104347114193243816
+21:55:12 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:55:24 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347172339025480 to GetLocatedRequest (22f1a7fa680)
+21:55:24 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 52 bytes for sending
+21:55:24 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:55:24 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:55:24 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347172346435528 to MsgsAck (22f1a7fa860)
+21:55:24 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+21:55:24 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:55:24 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:55:26 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104347172339025480
+21:55:26 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:56:31 - xxx - INFO - <module>: 59 - Hello
+21:56:31 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+21:56:31 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+21:56:31 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+21:56:31 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+21:56:31 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+21:56:31 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+21:56:31 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+21:56:31 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:56:31 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347460249227540 to InvokeWithLayerRequest (2c2b7dfa200)
+21:56:31 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:56:31 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:56:31 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:56:31 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:56:32 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104347460249227540
+21:56:32 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+21:56:32 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:56:32 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347463384997028 to InvokeWithLayerRequest (2c2b7dfa200)
+21:56:32 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:56:32 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:56:32 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:56:32 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347463384997032 to MsgsAck (2c2b7dfa290)
+21:56:32 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+21:56:32 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:56:32 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:56:33 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+21:56:33 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+21:56:33 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104347463384997028]
+21:56:33 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:56:33 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104347463384997028
+21:56:33 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:56:44 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347512177411244 to GetLocatedRequest (2c2b7dfaaa0)
+21:56:44 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 52 bytes for sending
+21:56:44 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:56:44 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:56:44 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347512178479360 to MsgsAck (2c2b7dfa6e0)
+21:56:44 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+21:56:44 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:56:44 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:56:46 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104347512177411244
+21:56:46 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:57:36 - xxx - INFO - <module>: 59 - Hello
+21:57:36 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+21:57:36 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+21:57:36 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+21:57:36 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+21:57:36 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+21:57:36 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+21:57:36 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+21:57:36 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:57:36 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347739352994724 to InvokeWithLayerRequest (22e354ba4a0)
+21:57:36 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:57:36 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:57:36 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:57:36 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:57:37 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104347739352994724
+21:57:37 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+21:57:37 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:57:37 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347742574617788 to InvokeWithLayerRequest (22e354ba4a0)
+21:57:37 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:57:37 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:57:37 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:57:37 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347742574617792 to MsgsAck (22e354ba530)
+21:57:37 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+21:57:37 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:57:37 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:57:38 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+21:57:38 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+21:57:38 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104347742574617788]
+21:57:38 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:57:38 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104347742574617788
+21:57:38 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:57:45 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347774460356180 to GetLocatedRequest (22e354ba7a0)
+21:57:45 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 52 bytes for sending
+21:57:45 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:57:45 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:57:45 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104347774466549340 to MsgsAck (22e354ba980)
+21:57:45 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+21:57:45 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:57:45 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:57:46 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104347774460356180
+21:57:46 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:59:35 - xxx - INFO - <module>: 59 - Hello
+21:59:35 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+21:59:35 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+21:59:35 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+21:59:35 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+21:59:35 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+21:59:35 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+21:59:35 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+21:59:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:59:35 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348249751897288 to InvokeWithLayerRequest (190a437a1d0)
+21:59:35 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:59:35 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:59:35 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:59:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:59:36 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104348249751897288
+21:59:36 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+21:59:36 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:59:36 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348252929693296 to InvokeWithLayerRequest (190a437a1d0)
+21:59:36 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+21:59:36 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:59:36 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:59:36 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348252929693300 to MsgsAck (190a437a260)
+21:59:36 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+21:59:36 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:59:36 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:59:37 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+21:59:37 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+21:59:37 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104348252929693296]
+21:59:37 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:59:37 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104348252929693296
+21:59:37 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+21:59:41 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348276256635872 to SearchRequest (190a437a590)
+21:59:41 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+21:59:41 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:59:41 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:59:41 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348276256635876 to MsgsAck (190a437a950)
+21:59:41 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+21:59:41 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+21:59:41 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+21:59:42 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104348276256635872
+21:59:42 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:00:30 - xxx - INFO - <module>: 59 - Hello
+22:00:30 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+22:00:30 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+22:00:30 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+22:00:30 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+22:00:30 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+22:00:30 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+22:00:30 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+22:00:30 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:00:30 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348486440413436 to InvokeWithLayerRequest (27a3213a2f0)
+22:00:30 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+22:00:30 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:00:30 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:00:30 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:00:33 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104348486440413436
+22:00:33 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+22:00:33 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:00:33 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348497595756376 to InvokeWithLayerRequest (27a3213a2f0)
+22:00:33 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+22:00:33 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:00:33 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:00:33 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348497595756380 to MsgsAck (27a3213a380)
+22:00:33 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+22:00:33 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:00:33 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:00:34 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+22:00:34 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+22:00:34 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104348497595756376]
+22:00:34 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:00:35 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104348497595756376
+22:00:35 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:00:44 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348543493660680 to SearchRequest (27a3213a6b0)
+22:00:44 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+22:00:44 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:00:44 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:00:44 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348543497147312 to MsgsAck (27a3213aa70)
+22:00:44 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+22:00:44 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:00:44 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:00:44 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104348543493660680
+22:00:44 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:02:18 - xxx - INFO - <module>: 59 - Hello
+22:02:18 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+22:02:18 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+22:02:18 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+22:02:19 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+22:02:19 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+22:02:19 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+22:02:19 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+22:02:19 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:02:19 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348951876195280 to InvokeWithLayerRequest (1b94fa5a2c0)
+22:02:19 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+22:02:19 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:02:19 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:02:19 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:02:20 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104348951876195280
+22:02:20 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+22:02:20 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:02:20 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348956247221916 to InvokeWithLayerRequest (1b94fa5a2c0)
+22:02:20 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+22:02:20 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:02:20 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:02:20 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348956251483888 to MsgsAck (1b94fa5a350)
+22:02:20 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+22:02:20 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:02:20 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:02:20 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+22:02:20 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+22:02:20 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104348956247221916]
+22:02:20 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:02:21 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104348956247221916
+22:02:21 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:02:28 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348992182592380 to SearchRequest (1b94fa5a680)
+22:02:28 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+22:02:28 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:02:28 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:02:28 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104348992182592384 to MsgsAck (1b94fa5aa40)
+22:02:28 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+22:02:28 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:02:28 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:02:29 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104348992182592380
+22:02:29 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:03:49 - xxx - INFO - <module>: 59 - Hello
+22:03:49 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+22:03:49 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+22:03:49 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+22:03:49 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+22:03:49 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+22:03:49 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+22:03:49 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+22:03:49 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:03:49 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104349338968115620 to InvokeWithLayerRequest (215a93da3e0)
+22:03:49 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+22:03:49 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:03:49 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:03:49 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:03:50 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104349338968115620
+22:03:50 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+22:03:50 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:03:50 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104349342437035972 to InvokeWithLayerRequest (215a93da3e0)
+22:03:50 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+22:03:50 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:03:50 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:03:50 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104349342437035976 to MsgsAck (215a93da470)
+22:03:50 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+22:03:50 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:03:50 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:03:50 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+22:03:50 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+22:03:50 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104349342437035972]
+22:03:50 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:03:51 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104349342437035972
+22:03:51 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:03:57 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104349375712846588 to SearchRequest (215a93da7a0)
+22:03:57 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+22:03:57 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:03:57 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:03:57 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104349375712846592 to MsgsAck (215a93dab60)
+22:03:57 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+22:03:57 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:03:57 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:03:58 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104349375712846588
+22:03:58 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:04:29 - xxx - INFO - <module>: 59 - Hello
+22:04:29 - proactor_events - DEBUG - __init__: 626 - Using proactor: IocpProactor
+22:04:29 - mtprotosender - INFO - _connect: 221 - Connecting to 149.154.167.51:443/TcpFull...
+22:04:29 - mtprotosender - DEBUG - _try_connect: 276 - Connection attempt 1...
+22:04:29 - mtprotosender - DEBUG - _try_connect: 278 - Connection success!
+22:04:29 - mtprotosender - DEBUG - _connect: 260 - Starting send loop
+22:04:29 - mtprotosender - DEBUG - _connect: 263 - Starting receive loop
+22:04:29 - mtprotosender - INFO - _connect: 272 - Connection to 149.154.167.51:443/TcpFull complete!
+22:04:29 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:04:29 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104349512033821964 to InvokeWithLayerRequest (1e409d9a290)
+22:04:29 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+22:04:29 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:04:29 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:04:29 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:04:30 - mtprotosender - DEBUG - _handle_bad_server_salt: 683 - Handling bad salt for message 7104349512033821964
+22:04:30 - mtprotosender - DEBUG - _handle_bad_server_salt: 688 - 1 message(s) will be resent
+22:04:30 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:04:30 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104349515210393456 to InvokeWithLayerRequest (1e409d9a290)
+22:04:30 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 80 bytes for sending
+22:04:30 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:04:30 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:04:30 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104349515212490584 to MsgsAck (1e409d9a320)
+22:04:30 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 36 bytes for sending
+22:04:30 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:04:30 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:04:30 - mtprotosender - DEBUG - _handle_container: 632 - Handling container
+22:04:30 - mtprotosender - DEBUG - _handle_new_session_created: 758 - Handling new session created
+22:04:30 - mtprotosender - DEBUG - _handle_ack: 777 - Handling acknowledge for [7104349515210393456]
+22:04:30 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:04:31 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104349515210393456
+22:04:31 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
+22:04:40 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104349559685904312 to SearchRequest (1e409d9a650)
+22:04:40 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 40 bytes for sending
+22:04:40 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:04:40 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:04:40 - messagepacker - DEBUG - get: 66 - Assigned msg_id = 7104349559691970636 to MsgsAck (1e409d9aa10)
+22:04:40 - mtprotosender - DEBUG - _send_loop: 465 - Encrypting 1 message(s) in 60 bytes for sending
+22:04:40 - mtprotosender - DEBUG - _send_loop: 491 - Encrypted messages put in a queue to be sent
+22:04:40 - mtprotosender - DEBUG - _send_loop: 456 - Waiting for messages to send...
+22:04:41 - mtprotosender - DEBUG - _handle_rpc_result: 591 - Handling RPC result for message 7104349559685904312
+22:04:41 - mtprotosender - DEBUG - _recv_loop: 501 - Receiving items from the network...
